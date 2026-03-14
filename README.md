@@ -32,5 +32,5 @@ The final model achieved an **overall accuracy of 92%**.
 ## 🚀 How to Run
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo.git](https://github.com/yourusername/your-repo.git)
+   git clone [https://github.com/PooyanJamshid/sentences_classification.git](https://github.com/PooyanJamshid/sentences_classification.git)
    cd your-repo

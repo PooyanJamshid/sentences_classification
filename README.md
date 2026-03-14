@@ -23,7 +23,6 @@ The final model achieved an **overall accuracy of 92%**.
 | 1 | 0.95 | 0.87 | 0.91 | 45 |
 | **Average** | **0.92** | **0.92** | **0.92** | **100** |
 
-![Confusion Matrix](confusion_matrix.png)
 
 ## 🛠 Tech Stack
 - **Languages/Frameworks:** Python, PyTorch, Transformers (Hugging Face)
